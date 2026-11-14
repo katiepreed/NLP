@@ -6,7 +6,7 @@
 
 `hotpot_evaluate_v1.py`: reads the system's predictions and the dev set’s correct answers. It compares them and prints the scores.
 
-`project.ipynb`: our custom system used to generate predictions for questions from `hotpot_evaluate_v1.py`
+`project.ipynb`: our custom system that generates predictions for questions from `hotpot_evaluate_v1.py`
 
 # About the system
 
